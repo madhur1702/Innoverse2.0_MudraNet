@@ -50,7 +50,7 @@ Developed as part of **Smart India Hackathon 2025**, MudraNet focuses on preserv
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/HomePage.png)
+![Home Page](./Screenshots/HomePage.png)
 
 ### 🔍 Mudra Detection
 ![Mudra Detection](./screenshots/Mudra%20Detection%20Section.png)
