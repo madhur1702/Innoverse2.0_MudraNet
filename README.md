@@ -5,7 +5,7 @@
 # 🎭 MudraNet  
 **AI-Powered Bharatanatyam Mudra Recognition & Learning Platform**
 
-![MudraNet Banner](./Screenshots/HomePage.png)
+![MudraNet Banner](./screenshots/HomePage.png)
 
 ---
 
@@ -50,10 +50,10 @@ Developed as part of **Smart India Hackathon 2025**, MudraNet focuses on preserv
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./Screenshots/HomePage.png)
+![Home Page](./screenshots/HomePage.png)
 
 ### 🔍 Mudra Detection
-![Mudra Detection](MudraNet/Screenshots/Mudra Detection Section.png)
+![Mudra Detection](./screenshots/Mudra%20Detection%20Section.png)
 
 ### 📖 Learn Mudras
 ![Learn Section](./screenshots/Learn%20Section.png)
@@ -75,25 +75,23 @@ Developed as part of **Smart India Hackathon 2025**, MudraNet focuses on preserv
 ---
 
 ## 🌍 Impact
-
 MudraNet aims to preserve India’s intangible cultural heritage by:
-
-Making Bharatanatyam education accessible to everyone.
-
-Helping learners receive instant feedback using AI.
-
-Digitally documenting and archiving traditional dance forms.
+- Making Bharatanatyam education accessible to everyone.
+- Helping learners receive instant feedback using AI.
+- Digitally documenting and archiving traditional dance forms.
 
 ---
 
 ## 👥 Team
+**Project by:** Team Innoverse 2.0  
+**Developed for:** Smart India Hackathon 2025 (PS ID: 25157)  
+**Organization:** AICTE — Indian Knowledge Systems (IKS)
 
-Project by: Team Innoverse 2.0
-Developed for Smart India Hackathon 2025 (PS ID: 25157)
-Organization: AICTE, Indian Knowledge Systems (IKS)
+---
 
 ## 🪶 License
+This project is licensed under the **MIT License** — free to use and modify with attribution.
 
-This project is licensed under the MIT License — free to use and modify with attribution.
+---
 
-“Preserving Indian classical arts through the lens of artificial intelligence.”
+> “Preserving Indian classical arts through the lens of artificial intelligence.”
