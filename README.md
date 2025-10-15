@@ -5,7 +5,7 @@
 # 🎭 MudraNet  
 **AI-Powered Bharatanatyam Mudra Recognition & Learning Platform**
 
-![MudraNet Banner](./screenshots/HomePage.png)
+![MudraNet Banner](./Screenshots/HomePage.png)
 
 ---
 
