@@ -87,9 +87,5 @@ MudraNet aims to preserve India’s intangible cultural heritage by:
 
 ---
 
-## 🪶 License
-This project is licensed under the **MIT License** — free to use and modify with attribution.
-
----
 
 > “Preserving Indian classical arts through the lens of artificial intelligence.”
