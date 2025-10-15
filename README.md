@@ -81,7 +81,7 @@ MudraNet aims to preserve India’s intangible cultural heritage by:
 ---
 
 ## 👥 Team
-**Project by:** Team Innoverse 2.0  
+**Project by:** Innoverse2.0_  
 **Developed for:** Smart India Hackathon 2025 (PS ID: 25157)  
 **Organization:** AICTE — Indian Knowledge Systems (IKS)
 
