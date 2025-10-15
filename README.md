@@ -53,7 +53,7 @@ Developed as part of **Smart India Hackathon 2025**, MudraNet focuses on preserv
 ![Home Page](./screenshots/HomePage.png)
 
 ### 🔍 Mudra Detection
-![Mudra Detection](./Screenshots/Mudra%20Detection%20Section.png)
+![Mudra Detection](./MudraNet/Screenshots/Mudra%20Detection%20Section.png)
 
 ### 📖 Learn Mudras
 ![Learn Section](./screenshots/Learn%20Section.png)
@@ -67,10 +67,8 @@ Developed as part of **Smart India Hackathon 2025**, MudraNet focuses on preserv
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | React.js, TailwindCSS |
-| **Backend** | Flask / FastAPI |
-| **AI/ML** | TensorFlow / PyTorch, MediaPipe, OpenCV |
-| **Database (optional)** | MongoDB / Firebase |
-| **Deployment** | Streamlit / Vercel / Render |
+| **Backend** | Flask |
+| **AI/ML** | TensorFlow, MediaPipe, OpenCV |
 
 ---
 
